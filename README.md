@@ -1,2 +1,5 @@
 # zen-external
-external libraries used from zen.
+
+This is the external libraries for [zen](../zen).
+
+Only includes files and static libraries are here.
